@@ -1,0 +1,27 @@
+{
+  "name": "discord.js-boiler-template",
+  "version": "1.0.0",
+  "description": "Boiler template for discord.js v14",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RalleeDev/Discord.js-boiler-template.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discordjs",
+    "discordbot"
+  ],
+  "author": "RalleeDev",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/RalleeDev/Discord.js-boiler-template/issues"
+  },
+  "homepage": "https://github.com/RalleeDev/Discord.js-boiler-template#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0"
+  }
+}
